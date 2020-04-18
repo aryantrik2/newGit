@@ -1,0 +1,2 @@
+# newGit
+For testing Git.
